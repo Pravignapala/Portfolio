@@ -1,0 +1,42 @@
+.contact-section {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 40px;
+  }
+  
+  .contact-details p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .contact-details a {
+    color: lightblue;
+    text-decoration: none;
+  }
+  
+  .contact-details a:hover {
+    text-decoration: underline;
+  }
+  
+  .resume-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: lightblue;
+    color: black;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .resume-btn a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .resume-btn:hover {
+    background: white;
+  }
+  

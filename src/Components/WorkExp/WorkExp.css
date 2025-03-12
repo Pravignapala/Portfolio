@@ -1,0 +1,48 @@
+.work-experience {
+    padding: 40px;
+    background-color: black;
+    color: white;
+  }
+  
+  .work-experience h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .job {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-left: 4px solid lightblue;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+  }
+  
+  .job h3 {
+    color: lightblue;
+    margin-bottom: 5px;
+  }
+  
+  .company {
+    font-style: italic;
+    color: lightgray;
+    margin-bottom: 10px;
+  }
+  
+  .job ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .job ul li {
+    margin-bottom: 8px;
+    padding-left: 15px;
+    position: relative;
+  }
+  
+  .job ul li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: lightblue;
+  }

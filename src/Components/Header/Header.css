@@ -1,0 +1,62 @@
+/* Style the header */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+.header {
+  text-align: center;
+  background-color: black; /* Background color */
+  padding: 15px;
+}
+/* Center the logo and add styling */
+.logo {
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif; /* Use a stylish font */
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 10px 20px;
+  background: linear-gradient(45deg, #00c6ff, #0072ff); /* Gradient effect */
+  display: inline-block;
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.nav-links-page{
+  display: flex;
+}
+
+/* Style the navigation bar */
+.nav-links {
+  display: flex; /* Arrange links side by side */
+  margin-left: 100px; /* Push it left */
+  gap: 150px; /* Add spacing between links */
+  list-style: none; /* Remove bullet points */
+  justify-content: space-around; /* Align to center */
+  padding: 10px;
+}
+
+/* Style each list item */
+.nav-links li {
+  display: inline-block;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white; /* Default text color */
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 15px;
+  gap: 100px;
+  justify-content: space-around;
+  border-radius: 5px;
+  transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+
+/* Hover effect */
+.nav-links a:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: lightblue;
+}

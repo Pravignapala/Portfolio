@@ -1,0 +1,30 @@
+.education-section {
+    padding: 50px;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .education-item {
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  }
+  
+  .education-item h3 {
+    color: #4db5ff;
+  }
+  
+  .education-item p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
