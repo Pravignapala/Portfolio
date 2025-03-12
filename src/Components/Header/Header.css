@@ -30,8 +30,8 @@
 /* Style the navigation bar */
 .nav-links {
   display: flex; /* Arrange links side by side */
-  margin-left: 100px; /* Push it left */
-  gap: 150px; /* Add spacing between links */
+  margin-left: 95px; /* Push it left */
+  gap: 100px; /* Add spacing between links */
   list-style: none; /* Remove bullet points */
   justify-content: space-around; /* Align to center */
   padding: 10px;
