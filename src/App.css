@@ -14,7 +14,7 @@
 
   align-self: flex-start; /* Moves it to the left */
   margin-top: 20px; /* Space below header */
-  margin-left: 300px; /* Push it left */
+  margin-left: 180px; /* Push it left */
   display: flex; /* Aligns Profile & About side by side */
   align-items: center; /* Vertically center */
   justify-content: flex-start; /* Centers them */

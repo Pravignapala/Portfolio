@@ -3,8 +3,8 @@
   }
   
   .profile {
-    width: 365px;
-    height: 400px;
-    border-radius: 55%;
+    width: 405px;
+    height: 600px;
+    border-radius: 5%;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
   }
