@@ -14,11 +14,11 @@
 
   align-self: flex-start; /* Moves it to the left */
   margin-top: 20px; /* Space below header */
-  margin-left: 150px; /* Push it left */
+  margin-left: 300px; /* Push it left */
   display: flex; /* Aligns Profile & About side by side */
   align-items: center; /* Vertically center */
   justify-content: flex-start; /* Centers them */
-  gap: 100px; /* Space between Profile and About */
+  gap: 150px; /* Space between Profile and About */
 }
   
 
